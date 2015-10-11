@@ -1,0 +1,17 @@
+E:\MASTER\kendo\kendo\bin\Debug\kendo.exe.config
+E:\MASTER\kendo\kendo\bin\Debug\kendo.exe
+E:\MASTER\kendo\kendo\bin\Debug\kendo.pdb
+E:\MASTER\kendo\kendo\obj\Debug\kendo.Form1.resources
+E:\MASTER\kendo\kendo\obj\Debug\kendo.Properties.Resources.resources
+E:\MASTER\kendo\kendo\obj\Debug\kendo.csproj.GenerateResource.Cache
+E:\MASTER\kendo\kendo\obj\Debug\kendo.exe
+E:\MASTER\kendo\kendo\obj\Debug\kendo.pdb
+E:\MASTER\kendo\kendo\obj\Debug\kendo.TableForm.resources
+E:\MASTER\kendo\kendo\bin\Debug\kendo.exe.manifest
+E:\MASTER\kendo\kendo\bin\Debug\kendo.application
+E:\MASTER\kendo\kendo\obj\Debug\kendo.exe.manifest
+E:\MASTER\kendo\kendo\obj\Debug\kendo.application
+E:\MASTER\kendo\kendo\bin\Debug\participanti.mdf
+E:\MASTER\kendo\kendo\bin\Debug\participanti_log.ldf
+E:\MASTER\kendo\kendo\obj\Debug\kendo.csprojResolveAssemblyReference.cache
+E:\MASTER\kendo\kendo\obj\Debug\kendo.CategoriesForm.resources
