@@ -15,3 +15,6 @@ E:\MASTER\kendo\kendo\bin\Debug\participanti.mdf
 E:\MASTER\kendo\kendo\bin\Debug\participanti_log.ldf
 E:\MASTER\kendo\kendo\obj\Debug\kendo.csprojResolveAssemblyReference.cache
 E:\MASTER\kendo\kendo\obj\Debug\kendo.CategoriesForm.resources
+D:\other\KendoApp\kendo\bin\Debug\kendo.exe.config
+D:\other\KendoApp\kendo\obj\Debug\kendo.exe
+D:\other\KendoApp\kendo\obj\Debug\kendo.pdb
