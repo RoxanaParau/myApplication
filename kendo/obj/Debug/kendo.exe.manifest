@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="kendo.exe" size="82944">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="kendo.exe" size="90624">
       <assemblyIdentity name="kendo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cwxYL1Y+xy1Wbm+rqLigmKSr9jhq2piLXSQ29vNdZLM=</dsig:DigestValue>
+        <dsig:DigestValue>w74GfZ1jKkmet83XQunaSL1pSyCX2rPtR08j5OO3nMk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -18,3 +18,5 @@ E:\MASTER\kendo\kendo\obj\Debug\kendo.CategoriesForm.resources
 D:\other\KendoApp\kendo\bin\Debug\kendo.exe.config
 D:\other\KendoApp\kendo\obj\Debug\kendo.exe
 D:\other\KendoApp\kendo\obj\Debug\kendo.pdb
+E:\MASTER\kendo\kendo\obj\Debug\kendo.Categorii_baieti.resources
+E:\MASTER\kendo\kendo\obj\Debug\kendo.Categorii_fete.resources

@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace kendo
 {
-    class ParticipantModel
+    public class ParticipantModel
     {
-       public int id { get; set; }
-       public string name { get; set; }
-       public int varsta { get; set; }
-       public string sex { get; set; }
-       public int categorie { get; set; }
+        public int id { get; set; }
+        public string name { get; set; }
+        public int kg { get; set; }
+        public string experienta { get; set; }
+        public int varsta { get; set; }
+        public string sex { get; set; }
+        public string categorie { get; set; }
     }
 }
